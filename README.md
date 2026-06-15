@@ -547,7 +547,7 @@ docs/screenshots/
 
 # Author
 
-Oluwadamilola Salaudeen
+Gafari Salaudeen
 
 DevOps Engineer Portfolio Project
 
